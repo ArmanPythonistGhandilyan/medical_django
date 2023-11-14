@@ -7,6 +7,6 @@
 
 1. Create venv `py -m venv venv`
 2. Activate venv `.\venv\Scripts\activate`
-3. Clone this repo `git clone https://github.com/ArmanPythonistGhandilyan/medical_django`
+3. Clone this repo `git clone https://github.com/ArmanPythonistGhandilyan/medical_django.git`
 4. Enter to the project `cd med_site`
 5. Run server `python manage.py runserver`
